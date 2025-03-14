@@ -1,4 +1,6 @@
-## Howdy, the name's `asoji`/`asojidev` 🏳️‍🌈
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98dec58f-f285-498b-9837-efdcaa659c74" width="1024" />
+</p>
 
 ```kt
 fun main() {
@@ -45,6 +47,6 @@ fun main() {
     ))
 
 
-    TODO("Add more to this readme, this is all I could come up with for now :p 🍋")
+    TODO("Add more to this readme, this is all I could come up with for now :p")
 }
 ```
