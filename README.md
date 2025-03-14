@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98dec58f-f285-498b-9837-efdcaa659c74" width="1024" />
+  <img src="https://github.com/user-attachments/assets/98dec58f-f285-498b-9837-efdcaa659c74" width="768" />
 </p>
 
 ```kt
