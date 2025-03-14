@@ -1,10 +1,10 @@
-## Howdy, the name's `asoji` 🏳️‍🌈
+## Howdy, the name's `asoji`/`asojidev` 🏳️‍🌈
 
 ```kt
 fun main() {
     println(AboutMe(
         name = "asojidev",
-        preference = "they/them, gay, non-binary masc",
+        preference = mutableListOf("they/them, gay, non-binary masc"),
         occupation = mutableListOf("Hobbyist software developer", "UI/UX Designer"),
         languages = mutableListOf("Kotlin", "C#"),
         socials = AboutMe.Socials(
