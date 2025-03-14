@@ -5,7 +5,7 @@ fun main() {
     println(AboutMe(
         name = "asojidev",
         preference = mutableListOf("they/them, gay, non-binary masc"),
-        occupation = mutableListOf("Hobbyist software developer", "UI/UX Designer"),
+        occupation = mutableListOf("Hobbyist software developer", "UI/UX Designer", "devOS: Sanity Edition Lead"),
         languages = mutableListOf("Kotlin", "C#"),
         socials = AboutMe.Socials(
             github = "@asoji",
