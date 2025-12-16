@@ -7,7 +7,7 @@ fun main() {
     println(AboutMe(
         name = "asojidev",
         preference = mutableListOf(
-            "they/them",
+            "they/them/xe/xim",
             "gay",
             "non-binary masc"
         ),
