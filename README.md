@@ -27,7 +27,7 @@ fun main() {
         ),
         socials = AboutMe.Socials(
             github = "@asoji",
-            bluesky = "@asoji.gaywizard.xyz",
+            bluesky = "@asoji.furry.st",
             mastadon = "@asojidev@nyanya.gay"
         ),
         profilePictureArtist = "@GreenyPika on Twitter"
