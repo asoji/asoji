@@ -17,8 +17,7 @@ fun main() {
         ),
         groups = mutableListOf(
             "devOS: Sanity Edition [Lead Studio Head]",
-            "Tricky Tanuki Studios [owned by devOS: Sanity Edition]",
-            "Illumi Engineering"
+            "Tricky Tanuki Studios [owned by devOS: Sanity Edition]"
         ),
         languages = mutableListOf(
             "Kotlin",
